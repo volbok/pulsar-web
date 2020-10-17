@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/pulsar-web/static/css/main.af020ec1.chunk.css",
+    "main.js": "/pulsar-web/static/js/main.daf2adbf.chunk.js",
+    "main.js.map": "/pulsar-web/static/js/main.daf2adbf.chunk.js.map",
+    "runtime-main.js": "/pulsar-web/static/js/runtime-main.ea45924b.js",
+    "runtime-main.js.map": "/pulsar-web/static/js/runtime-main.ea45924b.js.map",
+    "static/css/2.33edbbf8.chunk.css": "/pulsar-web/static/css/2.33edbbf8.chunk.css",
+    "static/js/2.fb5e5fdc.chunk.js": "/pulsar-web/static/js/2.fb5e5fdc.chunk.js",
+    "static/js/2.fb5e5fdc.chunk.js.map": "/pulsar-web/static/js/2.fb5e5fdc.chunk.js.map",
+    "index.html": "/pulsar-web/index.html",
+    "precache-manifest.576ac17f81753c81f6ff4f0539eaabaf.js": "/pulsar-web/precache-manifest.576ac17f81753c81f6ff4f0539eaabaf.js",
+    "service-worker.js": "/pulsar-web/service-worker.js",
+    "static/css/2.33edbbf8.chunk.css.map": "/pulsar-web/static/css/2.33edbbf8.chunk.css.map",
+    "static/css/main.af020ec1.chunk.css.map": "/pulsar-web/static/css/main.af020ec1.chunk.css.map",
+    "static/js/2.fb5e5fdc.chunk.js.LICENSE.txt": "/pulsar-web/static/js/2.fb5e5fdc.chunk.js.LICENSE.txt",
+    "static/media/body.png": "/pulsar-web/static/media/body.09a2e32a.png",
+    "static/media/deletar.svg": "/pulsar-web/static/media/deletar.fa0d653b.svg",
+    "static/media/editar.svg": "/pulsar-web/static/media/editar.6910013d.svg",
+    "static/media/bootstrap.min.css": "/pulsar-web/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/novo.svg": "/pulsar-web/static/media/novo.a32e2d2e.svg",
+    "static/media/pulsar.svg": "/pulsar-web/static/media/pulsar.9fdb9d7f.svg",
+    "static/media/salvar.svg": "/pulsar-web/static/media/salvar.c843937c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea45924b.js",
+    "static/css/2.33edbbf8.chunk.css",
+    "static/js/2.fb5e5fdc.chunk.js",
+    "static/css/main.af020ec1.chunk.css",
+    "static/js/main.daf2adbf.chunk.js"
+  ]
+}
