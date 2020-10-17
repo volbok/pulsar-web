@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pulsar-web/static/css/main.af020ec1.chunk.css",
-    "main.js": "/pulsar-web/static/js/main.daf2adbf.chunk.js",
-    "main.js.map": "/pulsar-web/static/js/main.daf2adbf.chunk.js.map",
+    "main.js": "/pulsar-web/static/js/main.85e2e80e.chunk.js",
+    "main.js.map": "/pulsar-web/static/js/main.85e2e80e.chunk.js.map",
     "runtime-main.js": "/pulsar-web/static/js/runtime-main.ea45924b.js",
     "runtime-main.js.map": "/pulsar-web/static/js/runtime-main.ea45924b.js.map",
     "static/css/2.33edbbf8.chunk.css": "/pulsar-web/static/css/2.33edbbf8.chunk.css",
     "static/js/2.fb5e5fdc.chunk.js": "/pulsar-web/static/js/2.fb5e5fdc.chunk.js",
     "static/js/2.fb5e5fdc.chunk.js.map": "/pulsar-web/static/js/2.fb5e5fdc.chunk.js.map",
     "index.html": "/pulsar-web/index.html",
-    "precache-manifest.576ac17f81753c81f6ff4f0539eaabaf.js": "/pulsar-web/precache-manifest.576ac17f81753c81f6ff4f0539eaabaf.js",
+    "precache-manifest.32ee163d0e840238ddf0aa3d541117c3.js": "/pulsar-web/precache-manifest.32ee163d0e840238ddf0aa3d541117c3.js",
     "service-worker.js": "/pulsar-web/service-worker.js",
     "static/css/2.33edbbf8.chunk.css.map": "/pulsar-web/static/css/2.33edbbf8.chunk.css.map",
     "static/css/main.af020ec1.chunk.css.map": "/pulsar-web/static/css/main.af020ec1.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.33edbbf8.chunk.css",
     "static/js/2.fb5e5fdc.chunk.js",
     "static/css/main.af020ec1.chunk.css",
-    "static/js/main.daf2adbf.chunk.js"
+    "static/js/main.85e2e80e.chunk.js"
   ]
 }
