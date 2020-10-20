@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00497f0b38f99d21c531010161b8e2da",
+    "revision": "104a065126654d6466a08dcd1e642b4d",
     "url": "/pulsar-web/index.html"
   },
   {
-    "revision": "85cef05cae3dac9990bc",
+    "revision": "ffd8dbf1f108587425c3",
     "url": "/pulsar-web/static/css/2.33edbbf8.chunk.css"
   },
   {
-    "revision": "0bf79587f749c10b3608",
+    "revision": "4e619b4bb56726166821",
     "url": "/pulsar-web/static/css/main.af020ec1.chunk.css"
   },
   {
-    "revision": "85cef05cae3dac9990bc",
-    "url": "/pulsar-web/static/js/2.fb5e5fdc.chunk.js"
+    "revision": "ffd8dbf1f108587425c3",
+    "url": "/pulsar-web/static/js/2.5156b394.chunk.js"
   },
   {
     "revision": "ff754369631398eb2bd0ce2b4436d8af",
-    "url": "/pulsar-web/static/js/2.fb5e5fdc.chunk.js.LICENSE.txt"
+    "url": "/pulsar-web/static/js/2.5156b394.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0bf79587f749c10b3608",
-    "url": "/pulsar-web/static/js/main.85e2e80e.chunk.js"
+    "revision": "4e619b4bb56726166821",
+    "url": "/pulsar-web/static/js/main.4365437f.chunk.js"
   },
   {
     "revision": "9f45725cf592ea3d5065",
