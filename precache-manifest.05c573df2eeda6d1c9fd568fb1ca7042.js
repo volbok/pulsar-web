@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "104a065126654d6466a08dcd1e642b4d",
+    "revision": "2e0284238548c70f0758cffd32e83f92",
     "url": "/pulsar-web/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pulsar-web/static/css/2.33edbbf8.chunk.css"
   },
   {
-    "revision": "4e619b4bb56726166821",
-    "url": "/pulsar-web/static/css/main.af020ec1.chunk.css"
+    "revision": "ab1e90c9000d957d3d9f",
+    "url": "/pulsar-web/static/css/main.251067dc.chunk.css"
   },
   {
     "revision": "ffd8dbf1f108587425c3",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pulsar-web/static/js/2.5156b394.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e619b4bb56726166821",
-    "url": "/pulsar-web/static/js/main.4365437f.chunk.js"
+    "revision": "ab1e90c9000d957d3d9f",
+    "url": "/pulsar-web/static/js/main.44417605.chunk.js"
   },
   {
     "revision": "9f45725cf592ea3d5065",

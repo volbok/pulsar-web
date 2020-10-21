@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pulsar-web/precache-manifest.b4a7d270553343f1de8ca19b9d8726c9.js"
+  "/pulsar-web/precache-manifest.05c573df2eeda6d1c9fd568fb1ca7042.js"
 );
 
 self.addEventListener('message', (event) => {
