@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pulsar-web/static/css/main.251067dc.chunk.css",
-    "main.js": "/pulsar-web/static/js/main.44417605.chunk.js",
-    "main.js.map": "/pulsar-web/static/js/main.44417605.chunk.js.map",
+    "main.css": "/pulsar-web/static/css/main.8a3de6b0.chunk.css",
+    "main.js": "/pulsar-web/static/js/main.7b9d53ca.chunk.js",
+    "main.js.map": "/pulsar-web/static/js/main.7b9d53ca.chunk.js.map",
     "runtime-main.js": "/pulsar-web/static/js/runtime-main.ea45924b.js",
     "runtime-main.js.map": "/pulsar-web/static/js/runtime-main.ea45924b.js.map",
     "static/css/2.33edbbf8.chunk.css": "/pulsar-web/static/css/2.33edbbf8.chunk.css",
-    "static/js/2.5156b394.chunk.js": "/pulsar-web/static/js/2.5156b394.chunk.js",
-    "static/js/2.5156b394.chunk.js.map": "/pulsar-web/static/js/2.5156b394.chunk.js.map",
+    "static/js/2.3c123d0b.chunk.js": "/pulsar-web/static/js/2.3c123d0b.chunk.js",
+    "static/js/2.3c123d0b.chunk.js.map": "/pulsar-web/static/js/2.3c123d0b.chunk.js.map",
     "index.html": "/pulsar-web/index.html",
-    "precache-manifest.05c573df2eeda6d1c9fd568fb1ca7042.js": "/pulsar-web/precache-manifest.05c573df2eeda6d1c9fd568fb1ca7042.js",
+    "precache-manifest.23a39efde3e623d21b88112dae8fb698.js": "/pulsar-web/precache-manifest.23a39efde3e623d21b88112dae8fb698.js",
     "service-worker.js": "/pulsar-web/service-worker.js",
     "static/css/2.33edbbf8.chunk.css.map": "/pulsar-web/static/css/2.33edbbf8.chunk.css.map",
-    "static/css/main.251067dc.chunk.css.map": "/pulsar-web/static/css/main.251067dc.chunk.css.map",
-    "static/js/2.5156b394.chunk.js.LICENSE.txt": "/pulsar-web/static/js/2.5156b394.chunk.js.LICENSE.txt",
+    "static/css/main.8a3de6b0.chunk.css.map": "/pulsar-web/static/css/main.8a3de6b0.chunk.css.map",
+    "static/js/2.3c123d0b.chunk.js.LICENSE.txt": "/pulsar-web/static/js/2.3c123d0b.chunk.js.LICENSE.txt",
     "static/media/body.png": "/pulsar-web/static/media/body.09a2e32a.png",
     "static/media/deletar.svg": "/pulsar-web/static/media/deletar.fa0d653b.svg",
     "static/media/editar.svg": "/pulsar-web/static/media/editar.6910013d.svg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.ea45924b.js",
     "static/css/2.33edbbf8.chunk.css",
-    "static/js/2.5156b394.chunk.js",
-    "static/css/main.251067dc.chunk.css",
-    "static/js/main.44417605.chunk.js"
+    "static/js/2.3c123d0b.chunk.js",
+    "static/css/main.8a3de6b0.chunk.css",
+    "static/js/main.7b9d53ca.chunk.js"
   ]
 }
