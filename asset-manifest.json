@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pulsar-web/static/css/main.295c2046.chunk.css",
-    "main.js": "/pulsar-web/static/js/main.d6858554.chunk.js",
-    "main.js.map": "/pulsar-web/static/js/main.d6858554.chunk.js.map",
+    "main.js": "/pulsar-web/static/js/main.5c4bfc79.chunk.js",
+    "main.js.map": "/pulsar-web/static/js/main.5c4bfc79.chunk.js.map",
     "runtime-main.js": "/pulsar-web/static/js/runtime-main.1caa7e7e.js",
     "runtime-main.js.map": "/pulsar-web/static/js/runtime-main.1caa7e7e.js.map",
     "static/css/2.55d435be.chunk.css": "/pulsar-web/static/css/2.55d435be.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.55d435be.chunk.css",
     "static/js/2.e20e6243.chunk.js",
     "static/css/main.295c2046.chunk.css",
-    "static/js/main.d6858554.chunk.js"
+    "static/js/main.5c4bfc79.chunk.js"
   ]
 }
