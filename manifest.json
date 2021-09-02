@@ -1,6 +1,6 @@
 {
-  "short_name": "Pulse",
-  "name": "gPulse",
+  "short_name": "pulsar",
+  "name": "pulsar-web",
   "icons": [
     {
       "src": "favicon.ico",
