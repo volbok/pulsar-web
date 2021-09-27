@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pulsar-web/static/css/main.9bd6d728.chunk.css",
-    "main.js": "/pulsar-web/static/js/main.98de1f00.chunk.js",
-    "main.js.map": "/pulsar-web/static/js/main.98de1f00.chunk.js.map",
+    "main.css": "/pulsar-web/static/css/main.fffcda1f.chunk.css",
+    "main.js": "/pulsar-web/static/js/main.2940c19b.chunk.js",
+    "main.js.map": "/pulsar-web/static/js/main.2940c19b.chunk.js.map",
     "runtime-main.js": "/pulsar-web/static/js/runtime-main.33dc4834.js",
     "runtime-main.js.map": "/pulsar-web/static/js/runtime-main.33dc4834.js.map",
     "static/css/2.5631a8f0.chunk.css": "/pulsar-web/static/css/2.5631a8f0.chunk.css",
-    "static/js/2.f8a2bd5a.chunk.js": "/pulsar-web/static/js/2.f8a2bd5a.chunk.js",
-    "static/js/2.f8a2bd5a.chunk.js.map": "/pulsar-web/static/js/2.f8a2bd5a.chunk.js.map",
+    "static/js/2.0c21da63.chunk.js": "/pulsar-web/static/js/2.0c21da63.chunk.js",
+    "static/js/2.0c21da63.chunk.js.map": "/pulsar-web/static/js/2.0c21da63.chunk.js.map",
     "index.html": "/pulsar-web/index.html",
     "static/css/2.5631a8f0.chunk.css.map": "/pulsar-web/static/css/2.5631a8f0.chunk.css.map",
-    "static/css/main.9bd6d728.chunk.css.map": "/pulsar-web/static/css/main.9bd6d728.chunk.css.map",
-    "static/js/2.f8a2bd5a.chunk.js.LICENSE.txt": "/pulsar-web/static/js/2.f8a2bd5a.chunk.js.LICENSE.txt",
+    "static/css/main.fffcda1f.chunk.css.map": "/pulsar-web/static/css/main.fffcda1f.chunk.css.map",
+    "static/js/2.0c21da63.chunk.js.LICENSE.txt": "/pulsar-web/static/js/2.0c21da63.chunk.js.LICENSE.txt",
     "static/media/3x4.fbc973c4.jpg": "/pulsar-web/static/media/3x4.fbc973c4.jpg",
     "static/media/Roboto-Bold.4f39c579.ttf": "/pulsar-web/static/media/Roboto-Bold.4f39c579.ttf",
     "static/media/back.015df188.svg": "/pulsar-web/static/media/back.015df188.svg",
@@ -23,26 +23,25 @@
     "static/media/deletar.636e1409.svg": "/pulsar-web/static/media/deletar.636e1409.svg",
     "static/media/dorso.577e2c02.svg": "/pulsar-web/static/media/dorso.577e2c02.svg",
     "static/media/editar.b6d3e683.svg": "/pulsar-web/static/media/editar.b6d3e683.svg",
-    "static/media/exame.73e426d0.svg": "/pulsar-web/static/media/exame.73e426d0.svg",
-    "static/media/galaxy.9f9cd268.jpeg": "/pulsar-web/static/media/galaxy.9f9cd268.jpeg",
     "static/media/ghap.7ed1fb4a.PNG": "/pulsar-web/static/media/ghap.7ed1fb4a.PNG",
     "static/media/bootstrap.min.css": "/pulsar-web/static/media/glyphicons-halflings-regular.be810be3.woff2",
     "static/media/imprimir.e3013900.svg": "/pulsar-web/static/media/imprimir.e3013900.svg",
     "static/media/invasoes.4556cb08.svg": "/pulsar-web/static/media/invasoes.4556cb08.svg",
-    "static/media/logo.608c1bb3.svg": "/pulsar-web/static/media/logo.608c1bb3.svg",
     "static/media/menu.b8a2d988.svg": "/pulsar-web/static/media/menu.b8a2d988.svg",
     "static/media/microfone.702df153.svg": "/pulsar-web/static/media/microfone.702df153.svg",
+    "static/media/newlogo.4ffd38fd.svg": "/pulsar-web/static/media/newlogo.4ffd38fd.svg",
+    "static/media/newlogoinverted.76820f07.svg": "/pulsar-web/static/media/newlogoinverted.76820f07.svg",
     "static/media/novo.cfce66c2.svg": "/pulsar-web/static/media/novo.cfce66c2.svg",
     "static/media/power.9b48fbbd.svg": "/pulsar-web/static/media/power.9b48fbbd.svg",
-    "static/media/pulsar.608c1bb3.svg": "/pulsar-web/static/media/pulsar.608c1bb3.svg",
     "static/media/salvar.43cba929.svg": "/pulsar-web/static/media/salvar.43cba929.svg",
-    "static/media/suspender.3ca37dfc.svg": "/pulsar-web/static/media/suspender.3ca37dfc.svg"
+    "static/media/suspender.3ca37dfc.svg": "/pulsar-web/static/media/suspender.3ca37dfc.svg",
+    "static/media/viewimage.052edeed.svg": "/pulsar-web/static/media/viewimage.052edeed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.33dc4834.js",
     "static/css/2.5631a8f0.chunk.css",
-    "static/js/2.f8a2bd5a.chunk.js",
-    "static/css/main.9bd6d728.chunk.css",
-    "static/js/main.98de1f00.chunk.js"
+    "static/js/2.0c21da63.chunk.js",
+    "static/css/main.fffcda1f.chunk.css",
+    "static/js/main.2940c19b.chunk.js"
   ]
 }
